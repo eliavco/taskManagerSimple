@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "eliav-co"
+  },
+  "targets": {
+    "eliav-co": {
+      "hosting": {
+        "task-manager-elco": [
+          "task-manager-elco"
+        ]
+      }
+    }
+  }
+}
