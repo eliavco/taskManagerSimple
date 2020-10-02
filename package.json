@@ -1,0 +1,18 @@
+{
+  "name": "taskprogress",
+  "version": "1.0.0",
+  "description": "A private and simplistic task progress bar for personal tasks",
+  "scripts": {
+    "deploy": "firebase deploy --only hosting:task-manager-elco"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eliavco/taskManagerSimple.git"
+  },
+  "author": "Eliav Cohen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eliavco/taskManagerSimple/issues"
+  },
+  "homepage": "https://github.com/eliavco/taskManagerSimple#readme"
+}
